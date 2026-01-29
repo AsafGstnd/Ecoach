@@ -2,8 +2,6 @@ import google.generativeai as genai
 import json
 import re
 import streamlit as st
-import vertexai
-from vertexai.generative_models import GenerativeModel
 
 
 class TacticalTranslator:
